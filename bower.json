@@ -1,0 +1,19 @@
+{
+  "name": "springChat",
+  "version": "0.0.0",
+  "appPath": "src/main/resources/static/",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-animate": "^v1.5.8",
+    "angularjs-scroll-glue": "^v0.0.1",
+    "AngularJS-Toaster": "angularjs-toaster#^2.0.0",
+    "stomp-websocket": "^2.3.4",
+    "sockjs": "^0.3.4",
+    "jquery": "^2.2.4",
+    "flat-ui": "^2.3.0",
+    "video.js": "videojs#^v4.7.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.5"
+  }
+}

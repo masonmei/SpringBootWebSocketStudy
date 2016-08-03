@@ -1,0 +1,16 @@
+{
+  "name": "springChat",
+  "version": "0.0.0",
+  "description": "Description for springChat",
+  "private": true,
+  "cacheDirectories": [
+    "src/main/resources/static/dep"
+  ],
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "bower-nexus3-resolver": "*"
+  },
+  "engines": {
+    "node": "^6.1.0"
+  }
+}

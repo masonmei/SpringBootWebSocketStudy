@@ -1,0 +1,7 @@
+{
+    "directory": "src/main/resources/static/dep",
+    "registry" : {
+        "search" : [ "http://gitlab.igitras.com:8081/repository/bower-all" ]
+    },
+    "resolvers" : [ "bower-nexus3-resolver" ]
+}
