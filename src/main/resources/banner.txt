@@ -1,0 +1,14 @@
+${AnsiColor.GREEN}             .---.                 ${AnsiColor.RED}  .--.--.                          ,-.             ___
+${AnsiColor.GREEN}            /. ./|          ,---,  ${AnsiColor.RED} /  /    '.                    ,--/ /|           ,--.'|_
+${AnsiColor.GREEN}        .--'.  ' ;        ,---.'|  ${AnsiColor.RED}|  :  /`. /   ,---.          ,--. :/ |           |  | :,'
+${AnsiColor.GREEN}       /__./ \ : |        |   | :  ${AnsiColor.RED};  |  |--`   '   ,'\         :  : ' /            :  : ' :
+${AnsiColor.GREEN}   .--'.  '   \' .  ,---. :   : :  ${AnsiColor.RED}|  :  ;_    /   /   |  ,---. |  '  /     ,---. .;__,'  /
+${AnsiColor.GREEN}  /___/ \ |    ' ' /     \:     |,-.${AnsiColor.RED}\  \    `..   ; ,. : /     \'  |  :    /     \|  |   |
+${AnsiColor.GREEN}  ;   \  \;      :/    /  |   : '  |${AnsiColor.RED} `----.   '   | |: :/    / '|  |   \  /    /  :__,'| :
+${AnsiColor.GREEN}   \   ;  `      .    ' / |   |  / :${AnsiColor.RED} __ \  \  '   | .; .    ' / '  : |. \.    ' / | '  : |__
+${AnsiColor.GREEN}    .   \    .\  '   ;   /'   : |: |${AnsiColor.RED}/  /`--'  |   :    '   ; :__|  | ' \ '   ;   /| |  | '.'|
+${AnsiColor.GREEN}     \   \   ' \ '   |  / |   | '/ '${AnsiColor.RED}--'.     / \   \  /'   | '.''  : |--''   |  / | ;  :    ;
+${AnsiColor.GREEN}      :   '  |--"|   :    |   :    |${AnsiColor.RED} `--'---'   `----' |   :    ;  |,'   |   :    | |  ,   /
+${AnsiColor.GREEN}       \   \ ;    \   \  //    \  /${AnsiColor.RED}                     \   \  /'--'      \   \  /   ---`-'
+${AnsiColor.GREEN}        '---"      `----' `-'----' ${AnsiColor.RED}                      `----'            `----'
+${AnsiColor.BRIGHT_BLUE}:: WebSocket :: ${AnsiColor.RED} Running Spring Boot ${spring-boot.version} ::::Author: ${AnsiColor.CYAN}Mason :: ${AnsiColor.DEFAULT}
